@@ -1,0 +1,197 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.0408669,
+                    -34.2836808
+                ]
+            },
+            "properties": {
+                "Name": "Fitz Farming",
+                "Address": "Griffith NSW 2680, Australia",
+                "Notes": "<p>Optimising spray applications.</p><br>\n\n<a href='https://www.incyt.com.au/customers/fitz-farming' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/669f330eb9ae0d716e3b823b_Fitz%20Farming%20Shoot%2030%20Mar%202023-06-min%20(1).jpg"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.7819951,
+                    -30.3205203
+                ]
+            },
+            "properties": {
+                "Name": "Swansbel Pastoral",
+                "Address": "Narrabri NSW 2390, Australia",
+                "Notes": "<p>Saving time through digital monitoring.</p><br>\n\n<a href='https://www.incyt.com.au/customers/swansbel-pastoral' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/668f7bef24a3987f8ed4c7e4_Copy%20of%20Copy%20of%20DSC_8319%201.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.7819951,
+                    -30.3205203
+                ]
+            },
+            "properties": {
+                "Name": "Carberry & Sons",
+                "Address": "Narrabri NSW 2390, Australia",
+                "Notes": "<p>Pushing the profitability margins.</p><br>\n\n<a href='https://www.incyt.com.au/customers/carberry-and-sons' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6699eb19086c8e9e4bb08b93_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    148.6648597,
+                    -33.5622339
+                ]
+            },
+            "properties": {
+                "Name": "Payten Family",
+                "Address": "Canowindra NSW 2804, Australia",
+                "Notes": "<p>Implementing remote monitoring.</p><br>\n\n<a href='https://www.incyt.com.au/customers/payten-family' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6698918c7a7714e6eb1eb5ff_DSC_8275.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.4391935,
+                    -30.2244213
+                ]
+            },
+            "properties": {
+                "Name": "Waverley Ag",
+                "Address": "Wee Waa NSW 2388, Australia",
+                "Notes": "<p>Improving lifestyle through increased efficiency.</p><br>\n\n<a href='https://www.incyt.com.au/customers/waverley-ag' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66c2ea6662c15c7213c08dd5_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    153.0260341,
+                    -27.4704528
+                ]
+            },
+            "properties": {
+                "Name": "LB Agtech",
+                "Address": "Brisbane QLD, Australia",
+                "Notes": "<p>No Bees, No Food.</p><br>\n\n<a href='https://www.incyt.com.au/customers/lb-agtech' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66d544d74803e30db9f6c393_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.3179813,
+                    -29.9691212
+                ]
+            },
+            "properties": {
+                "Name": "Allabah Pastoral",
+                "Address": "Spring Plains NSW 2388, Australia",
+                "Notes": "<p>Creating full-farm visibility.</p><br>\n\n<a href='https://www.incyt.com.au/customers/allabah-pastoral' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66d54a3ad0a66bf2953e3dc4_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    149.8415676,
+                    -29.465303
+                ]
+            },
+            "properties": {
+                "Name": "Wincott Holdings",
+                "Address": "Moree NSW 2400, Australia",
+                "Notes": "<p>Preparing for the future through innovation.</p><br>\n\n<a href='https://www.incyt.com.au/customers/wincott-holdings' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/66ff7fc9ea08f8c7545c81d1_Wincott_Hero%20(1).avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    152.35,
+                    -30.4
+                ]
+            },
+            "properties": {
+                "Name": "Lean Pastoral",
+                "Address": "Ebor NSW 2453, Australia",
+                "Notes": "<p>Creating peace of mind.</p><br>\n\n<a href='https://www.incyt.com.au/customers/lean-pastoral' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/673a728a8903e387340b5c7d_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    143.1506848,
+                    -34.716102
+                ]
+            },
+            "properties": {
+                "Name": "EASY Liquids",
+                "Address": "Boundary Bend VIC 3599, Australia",
+                "Notes": "<p>Industrial tank monitoring at scale.</p><br>\n\n<a href='https://www.incyt.com.au/customers/easy-liquids' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6769ee57e35072a0a28bc61d_DSC_8421.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    147.9816442,
+                    -32.0333806
+                ]
+            },
+            "properties": {
+                "Name": "Dunedin Pastoral",
+                "Address": "Trangie NSW 2823, Australia",
+                "Notes": "<p>Embracing technology.</p><br>\n\n<a href='https://www.incyt.com.au/customers/dunedin-pastoral' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>\n",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/6768ba65dbcf7972d7e8df33_Hero.avif"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.5314081,
+                    -33.4855373
+                ]
+            },
+            "properties": {
+                "Name": "McMaster Farming",
+                "Address": "Hillston NSW 2675, Australia",
+                "Notes": "<p>Creating accurate spray records.</p><br>\n\n<a href='https://www.incyt.com.au/customers/mcmaster-farming' class='button'>View Case Study</a>\n\n<style>\n  .button {\n    display: inline-block;\n    padding: 12px 24px;\n    background-color: %2304A1FF;\n    color: white;\n    text-decoration: none;\n    font-size: 16px;\n    font-weight: bold;\n    border-radius: 6px;\n    text-align: center;\n    transition: background-color 0.3s ease, box-shadow 0.3s ease;\n  }\n  .button:hover {\n    background-color: %230385D1;\n    box-shadow: 0px 4px 8px rgba(4, 161, 255, 0.4);\n  }\n</style>\n\n",
+                "Image": "https://cdn.prod.website-files.com/665e593f0409aebe26c256ac/67c65421a4d1f5eb8311139d_DSC_9223.avif"
+            }
+        }
+    ]
+}
